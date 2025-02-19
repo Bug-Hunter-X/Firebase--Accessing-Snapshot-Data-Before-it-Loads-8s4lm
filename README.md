@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Firebase when accessing data from a document snapshot before it's fully loaded. The `firebaseBug.js` file shows the error, while `firebaseBugSolution.js` provides the solution using promises or async/await.
